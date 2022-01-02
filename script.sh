@@ -1,7 +1,7 @@
 #!/bin/bash
 installdependencies()
 {
-echo “DevOps-SL-Project-2 By Rangnath Jadhav - Installing Java, Jenkins and python on Server Centos-7”;
+echo “DevOps-SL-Project-3 By Rangnath Jadhav - Installing Java, Jenkins and python on Server Centos-7”;
 echo “Installing Dependencies”;
 sudo yum upgrade -y
 
